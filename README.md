@@ -2,7 +2,7 @@
 With this script you can crawl images from reddit. Currently the images crawled are from imgur and reddit.
 
 
-##Prerequisites
+## Prerequisites
 In order to use this script you need the following libraries:
 
 ```
@@ -24,7 +24,7 @@ ClientSecret: your imgur secret
 ```
 
 
-##Use
+## Use
 By default, the subreddit to crawl is 'earthporn' and the number of posts to search  in is 10. You can execute with inline parameters to change this i.e.:
 
 ```
